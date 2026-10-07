@@ -1,3 +1,8 @@
+# Secrets / private keys
+*.pem
+*.key
+*.p12
+
 # Editors / OS
 .vscode/
 .DS_Store
